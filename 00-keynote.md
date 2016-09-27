@@ -52,10 +52,21 @@ Multi-threading:
 Benchpress:
 * tool to measure the performances (gc pressure, execution time, render time, update speed, ...)
 
-Mobile cannot be ignored, it is pervasive.
+Mobile cannot be ignored, it is pervasive: 70 of Web traffic is mobile
 * Angular 2 supports mobile scenarios
 * Angular 2 can be combined with NativeScript to create native experiences on multiple mobile platforms (Android, iOS, ...) with much less effort
 
 Desktop is still there
 * Angular 2 can be combined with Electron to provide a good desktop experience: chrome, file system access, native notifications, etc
 
+Server scenarios are also considered:
+* server-side rendering for first rendering experience and better SEO support
+
+---
+
+Apollo and GraphQL
+
+GraphQL:
+* adapted for component-driven development
+
+Apollo: to check
